@@ -1,0 +1,38 @@
+container-fluid-1{
+  background-color:Gainsboro;
+}
+body {
+  background-image: url("concrete.jpg");
+
+}
+h1 {
+  font-family: serif;
+  text-shadow: 200px;
+  text-align: center;
+}
+.pagination{
+  background-color: pink;
+}
+.navbar{
+  font-family: serif;
+  text-align:right;
+}
+.card-text{
+  font-family: Garamond, serif;
+  font-size: 25px;
+
+}
+.card-title{
+  font-family: Garamond, serif;
+  font-size: 40px;
+}
+p {
+  text-indent: 10%;
+}
+.col-lg-4{
+  align-self:center;
+}
+
+.addBorder {
+  /* Thickness, Style, and Color */
+  border: 2px solid #000000;
